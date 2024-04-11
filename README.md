@@ -1,0 +1,2 @@
+# SpotSenai
+ Projeto SenaiSpotfy
